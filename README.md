@@ -76,3 +76,6 @@ Medical-Expert-System-Knowledge-Base/
     
 #Contributing
 Feel free to contribute by submitting pull requests or reporting issues. Please make sure that all contributions align with the existing project structure.
+
+
+THANK YOU !!
